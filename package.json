@@ -1,5 +1,5 @@
 {
-  "name": "ratefits",
+  "name": "expressSkeleton",
   "version": "1.0.0",
   "description": "A skeletal starting point for express apps.",
   "main": "index.js",
